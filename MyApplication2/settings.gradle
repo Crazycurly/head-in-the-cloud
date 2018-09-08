@@ -1,0 +1,1 @@
+include ':app', ':headlib', ':BluetoothClassicLibrary', ':BluetoothLowEnergyLibrary', ':Sample'
