@@ -1,4 +1,4 @@
-#Sat Sep 08 21:12:17 CST 2018
-base.0=C\:\\Users\\3dp\\Desktop\\tmp\\head-in-the-cloud\\MyApplication2\\Sample\\build\\intermediates\\transforms\\dexMerger\\debug\\24
+#Sat Sep 08 23:38:43 CST 2018
+base.0=C\:\\Users\\chuang\\Desktop\\head-in-the-cloud\\MyApplication2\\Sample\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex

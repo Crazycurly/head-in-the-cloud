@@ -136,7 +136,7 @@ public class DeviceActivity extends AppCompatActivity implements BluetoothServic
 
         txv[0].setText(String.format("Pitch: %d\n\nYaw: %d\n\nRoll: %d",pitch, yaw, roll));
 
-        mWriter.writeln("P"+pitch+360+"_Y"+yaw+360+"_R"+roll+360+"_T"+Throttle+"_");
+        mWriter.writeln("P"+(pitch+360)+"_Y"+(yaw+360)+"_R"+(roll+360)+"_T"+Throttle+"_");
 //        mWriter.writeln(Integer.toString(yaw)+"_");
 //        mWriter.writeln(Integer.toString(roll)+"_");
     }

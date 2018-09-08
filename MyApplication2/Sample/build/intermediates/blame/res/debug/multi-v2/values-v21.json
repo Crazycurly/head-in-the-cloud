@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\3dp\\Desktop\\tmp\\head-in-the-cloud\\MyApplication2\\Sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\chuang\\Desktop\\head-in-the-cloud\\MyApplication2\\Sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\3dp\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.0.0.aar\\2e5b54a00f2f32370488dda32ef17a37\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\chuang\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.0.0.aar\\16e628d321b0103df0c2eaf14e239111\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\3dp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\358563cae75889b08366eeeb10c1d112\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\chuang\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\a1d22084842c6015d2f31f29183983ba\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,24,25,26,28,30,31,32,33,34,36,38,40,42,44,46,47,52,54,56,57,58,60,62,63,64,65,66,67,111,114,158,161,164,166,168,170,173,175,178,179,180,183,184,185,186,187,188,191,192,194,196,198,200,204,206,207,208,209,211,215,217,219,220,221,222,223,225,226,227,237,238,239,251,263,264,265,268,271,272,275,276,279,282",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\3dp\\Desktop\\tmp\\head-in-the-cloud\\MyApplication2\\Sample\\src\\main\\res\\values-v21\\styles.xml",
+                    "source": "C:\\Users\\chuang\\Desktop\\head-in-the-cloud\\MyApplication2\\Sample\\src\\main\\res\\values-v21\\styles.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
