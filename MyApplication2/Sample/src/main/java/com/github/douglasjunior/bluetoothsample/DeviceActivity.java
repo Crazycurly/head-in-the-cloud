@@ -72,6 +72,8 @@ public class DeviceActivity extends AppCompatActivity implements BluetoothServic
         sr = sm.getDefaultSensor(Sensor.TYPE_ORIENTATION);
         txv[0] = (TextView) findViewById(R.id.textView);
         txv[1] = (TextView) findViewById(R.id.textView2);
+        txv[0].setTextSize(25);
+        txv[1].setTextSize(25);
         txv[1].setText(String.format("油門:%4d / 255", 0));
         bindViews() ;
     }
