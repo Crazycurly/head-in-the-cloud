@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\chuang\\Desktop\\MyApplication2\\Sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
+            "outputFile": "C:\\Users\\3dp\\Desktop\\tmp\\head-in-the-cloud\\MyApplication2\\Sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\chuang\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\a1d22084842c6015d2f31f29183983ba\\res\\values-hu\\values-hu.xml",
+                    "source": "C:\\Users\\3dp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\358563cae75889b08366eeeb10c1d112\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

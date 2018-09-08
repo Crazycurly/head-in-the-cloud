@@ -26,5 +26,6 @@ dependencies {
     compile 'com.android.support:cardview-v7:25.0.0'
     compile 'com.android.support:design:25.0.0'
     compile project(':BluetoothLowEnergyLibrary')
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
 }
 

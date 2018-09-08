@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\chuang\\Desktop\\MyApplication2\\Sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\3dp\\Desktop\\tmp\\head-in-the-cloud\\MyApplication2\\Sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\chuang\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\a1d22084842c6015d2f31f29183983ba\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\3dp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\358563cae75889b08366eeeb10c1d112\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\chuang\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.0.0.aar\\16e628d321b0103df0c2eaf14e239111\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\3dp\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.0.0.aar\\2e5b54a00f2f32370488dda32ef17a37\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
