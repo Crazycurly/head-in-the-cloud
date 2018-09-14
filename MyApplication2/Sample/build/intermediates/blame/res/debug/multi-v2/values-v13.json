@@ -1,10 +1,14 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "C:\\Users\\chuang\\Desktop\\head-in-the-cloud\\MyApplication2\\Sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+=======
+            "outputFile": "C:\\Users\\3dp\\Desktop\\head-in-the-cloud\\MyApplication2\\Sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+>>>>>>> app updata
             "map": [
                 {
-                    "source": "C:\\Users\\chuang\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\a1d22084842c6015d2f31f29183983ba\\res\\values-v13\\values-v13.xml",
+                    "source": "C:\\Users\\3dp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\358563cae75889b08366eeeb10c1d112\\res\\values-v13\\values-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

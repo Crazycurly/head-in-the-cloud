@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main"><source path="C:\Users\chuang\Desktop\head-in-the-cloud\MyApplication2\BluetoothLowEnergyLibrary\src\main\assets"/><source path="C:\Users\chuang\Desktop\head-in-the-cloud\MyApplication2\BluetoothLowEnergyLibrary\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\chuang\Desktop\head-in-the-cloud\MyApplication2\BluetoothLowEnergyLibrary\src\debug\assets"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\BluetoothLowEnergyLibrary\src\main\assets"/><source path="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\BluetoothLowEnergyLibrary\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\BluetoothLowEnergyLibrary\src\debug\assets"/></dataSet></merger>
+>>>>>>> app updata

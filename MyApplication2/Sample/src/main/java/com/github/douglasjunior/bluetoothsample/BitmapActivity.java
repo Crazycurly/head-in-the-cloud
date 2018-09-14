@@ -54,17 +54,17 @@ public class BitmapActivity extends AppCompatActivity implements View.OnClickLis
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        setContentView(R.layout.activity_bitmap);
+//        setContentView(R.layout.activity_bitmap);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        mFab = (FloatingActionButton) findViewById(R.id.fab);
+//        mFab = (FloatingActionButton) findViewById(R.id.fab);
         mFab.setOnClickListener(this);
 
         mService = BluetoothService.getDefaultInstance();
 
-        mImgOriginal = (ImageView) findViewById(R.id.img_original);
-        mImgBlackWhite = (ImageView) findViewById(R.id.img_blackwhite);
+//        mImgOriginal = (ImageView) findViewById(R.id.img_original);
+//        mImgBlackWhite = (ImageView) findViewById(R.id.img_blackwhite);
 
         new Thread() {
             @Override

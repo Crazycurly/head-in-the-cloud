@@ -159,24 +159,24 @@ public class MainActivity extends AppCompatActivity implements BluetoothService.
     public void onStatusChange(BluetoothStatus status) {
         Log.d(TAG, "onStatusChange: " + status);
         Toast.makeText(this, status.toString(), Toast.LENGTH_SHORT).show();
-
+//
         if (status == BluetoothStatus.CONNECTED) {
-            CharSequence colors[] = new CharSequence[]{"Try text", "Try picture"};
-
-            AlertDialog.Builder builder = new AlertDialog.Builder(this);
-            builder.setTitle("Select");
-            builder.setItems(colors, new DialogInterface.OnClickListener() {
-                @Override
-                public void onClick(DialogInterface dialog, int which) {
-                    if (which == 0) {
+//            CharSequence colors[] = new CharSequence[]{"Try text", "Try picture"};
+//
+//            AlertDialog.Builder builder = new AlertDialog.Builder(this);
+//            builder.setTitle("Select");
+//            builder.setItems(colors, new DialogInterface.OnClickListener() {
+//                @Override
+//                public void onClick(DialogInterface dialog, int which) {
+//                    if (which == 0) {
                         startActivity(new Intent(MainActivity.this, DeviceActivity.class));
-                    } else {
-                        startActivity(new Intent(MainActivity.this, BitmapActivity.class));
-                    }
-                }
-            });
-            builder.setCancelable(false);
-            builder.show();
+//                    } else {
+//                        startActivity(new Intent(MainActivity.this, BitmapActivity.class));
+//                    }
+//                }
+//            });
+//            builder.setCancelable(false);
+//            builder.show();
         }
 
     }

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
+<<<<<<< HEAD
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="27"
     build-mode="COLD"
@@ -9,16 +10,32 @@
     plugin-version="3.1.4"
     timestamp="1536436173256"
     token="4264327037469933864"
+=======
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    build-mode="COLD"
+    density="xhdpi"
+    format="10"
+    ir-eligibility="R_CLASS_CHANGE"
+    plugin-version="3.1.4"
+    timestamp="1536918819101"
+    token="3092590444738483095"
+>>>>>>> app updata
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
+<<<<<<< HEAD
         duration="621" />
+=======
+        duration="394" />
+>>>>>>> app updata
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
+<<<<<<< HEAD
         duration="129" />
     <task
         name="verifier"
@@ -73,10 +90,76 @@
             type="SPLIT" />
         <artifact
             location="C:\Users\chuang\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\instant-run-apk\debug\Sample-debug.apk"
+=======
+        duration="64" />
+    <task
+        name="verifier"
+        duration="34" />
+
+    <artifact
+        location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\instant-run-apk\debug\Sample-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1536918410408"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\instant-run-apk\debug\Sample-debug.apk"
+>>>>>>> app updata
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
+<<<<<<< HEAD
         ir-eligibility="COMPATIBLE"
         timestamp="1536436173256"
         verifier="COLD_SWAP_REQUESTED" >
@@ -86,6 +169,29 @@
         <artifact
             location="C:\Users\chuang\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
+=======
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1536918819101"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\3dp\Desktop\head-in-the-cloud\MyApplication2\Sample\build\intermediates\instant-run-apk\debug\Sample-debug.apk"
+            type="SPLIT_MAIN" />
+>>>>>>> app updata
     </build>
 
 </instant-run>

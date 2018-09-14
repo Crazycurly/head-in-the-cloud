@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "C:\\Users\\chuang\\Desktop\\head-in-the-cloud\\MyApplication2\\Sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\chuang\\Desktop\\head-in-the-cloud\\MyApplication2\\Sample\\src\\main\\res\\values-w820dp\\dimens.xml",
+=======
+            "outputFile": "C:\\Users\\3dp\\Desktop\\head-in-the-cloud\\MyApplication2\\Sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\3dp\\Desktop\\head-in-the-cloud\\MyApplication2\\Sample\\src\\main\\res\\values-w820dp\\dimens.xml",
+>>>>>>> app updata
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

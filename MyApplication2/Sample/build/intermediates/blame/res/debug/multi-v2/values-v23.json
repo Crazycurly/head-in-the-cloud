@@ -1,10 +1,25 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "C:\\Users\\chuang\\Desktop\\head-in-the-cloud\\MyApplication2\\Sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+=======
+            "outputFile": "C:\\Users\\3dp\\Desktop\\head-in-the-cloud\\MyApplication2\\Sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+>>>>>>> app updata
             "map": [
                 {
-                    "source": "C:\\Users\\chuang\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-25.0.0.aar\\7ddbb76596afbc8c6307880051f220dd\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\3dp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\358563cae75889b08366eeeb10c1d112\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\3dp\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-25.0.0.aar\\efff446d6504a64dd825332d360f87ad\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,17 +35,6 @@
                         "endLines": "39",
                         "endColumns": "12",
                         "endOffsets": "2791"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\chuang\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\a1d22084842c6015d2f31f29183983ba\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
-                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
-                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
-                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
                     }
                 }
             ]

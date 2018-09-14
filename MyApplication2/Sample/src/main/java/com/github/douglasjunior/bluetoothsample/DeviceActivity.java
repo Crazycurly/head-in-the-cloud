@@ -138,9 +138,18 @@ public class DeviceActivity extends AppCompatActivity implements BluetoothServic
 
         txv[0].setText(String.format("Pitch: %d\n\nYaw: %d\n\nRoll: %d",pitch, yaw, roll));
 
+<<<<<<< HEAD
         mWriter.writeln("P"+(pitch+360)+"_Y"+(yaw+360)+"_R"+(roll+360)+"_T"+Throttle+"_");
 //        mWriter.writeln(Integer.toString(yaw)+"_");
 //        mWriter.writeln(Integer.toString(roll)+"_");
+=======
+//        mWriter.writeln("P"+(pitch+360)+"_Y"+(yaw+360)+"_R"+(roll+360)+"_T"+Throttle+"_");
+        mWriter.writeln("cmd:"+Throttle+","+map(yaw,-90,90,0,255)+","+127+","+map(pitch,90,-90,0,255)+"_");
+    }
+    long map(long x, long in_min, long in_max, long out_min, long out_max)
+    {
+        return (x - in_min) * (out_max - out_min) / (in_max - in_min) + out_min;
+>>>>>>> app updata
     }
 
     @Override

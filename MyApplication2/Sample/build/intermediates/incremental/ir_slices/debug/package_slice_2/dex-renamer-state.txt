@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Sat Sep 08 23:38:42 CST 2018
 base.0=C\:\\Users\\chuang\\Desktop\\head-in-the-cloud\\MyApplication2\\Sample\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+=======
+#Fri Sep 14 17:53:41 CST 2018
+base.0=C\:\\Users\\3dp\\Desktop\\head-in-the-cloud\\MyApplication2\\Sample\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+>>>>>>> app updata
 path.0=classes.dex
 renamed.0=classes.dex
